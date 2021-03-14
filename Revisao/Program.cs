@@ -30,9 +30,17 @@ namespace Revisao
 
                             throw new ArgumentException("O valor da nota deve ser decimal!");
                         }
+                        if (indiceAluno < 5)
+                        {
+                           alunos[indiceAluno] = aluno;
+                            indiceAluno++; 
+                        } else {
+                            Console.WriteLine();
+                            Console.WriteLine("NÚMERO MÁXIMO DE ALUNOS ATINGIDO!");
+                            Console.WriteLine("NÃO É POSSÍVEL INCLUIR NOVOS ALUNOS!");
+                        }
 
-                        alunos[indiceAluno] = aluno;
-                        indiceAluno++;
+                        
                         Console.WriteLine();
                         break;
 
