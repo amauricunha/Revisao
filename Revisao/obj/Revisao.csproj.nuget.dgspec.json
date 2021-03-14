@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\VMs\\dio\\Teste\\Revisao\\Revisao.csproj": {}
+    "C:\\VMs\\dio\\Revisao\\Revisao\\Revisao.csproj": {}
   },
   "projects": {
-    "C:\\VMs\\dio\\Teste\\Revisao\\Revisao.csproj": {
+    "C:\\VMs\\dio\\Revisao\\Revisao\\Revisao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\VMs\\dio\\Teste\\Revisao\\Revisao.csproj",
+        "projectUniqueName": "C:\\VMs\\dio\\Revisao\\Revisao\\Revisao.csproj",
         "projectName": "Revisao",
-        "projectPath": "C:\\VMs\\dio\\Teste\\Revisao\\Revisao.csproj",
+        "projectPath": "C:\\VMs\\dio\\Revisao\\Revisao\\Revisao.csproj",
         "packagesPath": "C:\\Users\\amauri.cunha\\.nuget\\packages\\",
-        "outputPath": "C:\\VMs\\dio\\Teste\\Revisao\\obj\\",
+        "outputPath": "C:\\VMs\\dio\\Revisao\\Revisao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\amauri.cunha\\AppData\\Roaming\\NuGet\\NuGet.Config",
